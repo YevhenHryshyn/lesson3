@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h1{
+    margin: 20px 0 20px 550px;
+}
+ul{
+    margin-left: 50px;
+    margin-bottom: 10px;
+    font-size: 100%;
+    list-style-image: linear-gradient(to left bottom, red, blue);   
+}
+h2{
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+li{
+    margin-right: 1000px;
+    margin-bottom: 20px;
+}
+table th,td{
+    padding: 3px;
+    border: solid 3px black;
+    text-align: center;
+}
+table{
+    width: 500px;
+    height: 250px;
+    border-collapse: collapse;
+    margin-left: 100px;
+    margin-bottom: 40px;
+}
+
+    
